@@ -1,5 +1,5 @@
 body {
-	background-color: #000000;
+	background-color: #300815;
 }
 
 canvas {
@@ -15,4 +15,6 @@ canvas {
 	margin-right: auto;
 	display: block;
 	border: 1px solid white;
+	border-radius: 8px;
+	box-shadow: 8px 8px #000000;
 }
